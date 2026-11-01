@@ -1,0 +1,22 @@
+{
+  "short_name": "VectorCraft",
+  "name": "VectorCraft - AI Logo Maker & Desktop Studio",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Design professional brand logos with AI design intelligence, vector canvas editing, brand kit generation, and installable Windows PC desktop support."
+}

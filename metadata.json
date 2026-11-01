@@ -1,0 +1,6 @@
+{
+  "name": "VectorCraft - AI Logo Maker & Desktop Studio",
+  "description": "Design professional brand logos with AI design intelligence, vector canvas editing, brand kit generation, and installable Windows PC desktop support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
